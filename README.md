@@ -1,4 +1,3 @@
-<img width="1440" height="1526" alt="image" src="https://github.com/user-attachments/assets/9dff8b92-2f48-4027-aa8a-d90820ef83e3" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Urooj%20Fatima%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&descColor=a8b2d8" />
 </div>
 
