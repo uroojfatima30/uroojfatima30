@@ -13,22 +13,7 @@
 ---
 
 ## 🙋‍♀️ About Me
-
-```java
-public class UroojFatima {
-
-    String university  = "University of Education, Lahore";
-    String degree      = "BS Computer Science";
-    String semester    = "2nd Semester";
-    String email       = "uroojfatima8500@gmail.com";
-
-    String[] currentlyLearning = {"Java GUI", "Event-Driven Programming"};
-    String[] goals             = {"Cyber Security", "Software Engineering"};
-    String[] interests         = {"Artificial Intelligence", "Web Development"};
-
-    String funFact = "I turn ☕ coffee into code!";
-}
-```
+![Uploading image.png…]()
 
 ---
 
