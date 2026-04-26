@@ -13,9 +13,29 @@
 
 ## 🙋‍♀️ About Me
 
-<img width="1440" height="1526" alt="image" src="https://github.com/user-attachments/assets/81cdc7d1-7b1b-4220-aeea-d3eed0bba166" />
+```java
+public class UroojFatima {
 
+  String name      = "Urooj Fatima";
+  String city      = "Lahore, Pakistan 🇵🇰";
+  String university = "University of Education, Lahore";
+  String degree     = "BS Computer Science";
+  String semester   = "2nd Semester";
 
+  // My personality
+  String personality = "Creative & Curious 🎨";
+  String funFact     = "I turn ☕ coffee into code!";
+
+  // What I'm doing now
+  String[] learning = {"Java GUI", "Event-Driven Programming"};
+  String[] interests = {"Artificial Intelligence 🤖", "Web Development 🌐"};
+
+  // Where I'm headed
+  String dreamJob = "Cyber Security Expert 🔐";
+  boolean openToOpportunities = true;
+
+}
+```
 ---
 
 ## 🛠️ Tech Stack & Tools
