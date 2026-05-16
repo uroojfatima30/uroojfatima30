@@ -5,6 +5,7 @@
 
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;Cyber+Security+Learner+%F0%9F%94%90;AI+%26+Tech+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
